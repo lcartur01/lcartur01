@@ -5,4 +5,5 @@ Profissional com sete anos de experiência na área contábil, atuando com conci
 Este GitHub reúne projetos práticos que refletem esse processo de transição e desenvolvimento na área de dados. Os repositórios estão organizados de forma a demonstrar abordagens analíticas complementares:
 
 BI-Portfolio → SQL, Modelagem de Dados, Power BI, Análise Financeira
+
 EDA-Portfolio → Python, Pandas, Análise Exploratória de Dados
